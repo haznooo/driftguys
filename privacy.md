@@ -94,8 +94,8 @@ also complain to your country's data protection authority.
 
 ## Children
 
-Drift Guys is made for players aged 16 and over. I don't knowingly collect data from anyone under 16. If you
-believe someone under 16 has an account, email me and I'll delete it.
+Drift Guys is made for players aged 13 and over. I don't knowingly collect data from children under 13. If you
+believe a child under 13 has an account, email me and I'll delete it.
 
 ## Security
 
