@@ -46,4 +46,4 @@ Backups that still contain your account are gone within 30 days.
 - Uninstalling the game does **not** delete your account.
 - If you sign in again later with the same Google account, you start as a new player from zero.
 
-Questions: **[contact email]** · [Privacy policy](../privacy/)
+Questions: **[contact email]** · [Privacy policy](../privacy/) · [Terms of service](../terms/)

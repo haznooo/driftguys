@@ -5,7 +5,7 @@ permalink: /privacy/
 
 # Drift Guys privacy policy
 
-*Last updated: 14 November 2026*
+*Last updated: 14 November 2026* · See also the [terms of service](../terms/)
 
 Drift Guys is a racing game for Android made by one independent developer ("I", "me"). This page explains what
 the game collects, why, who else gets it, how long it is kept, and how you can delete it.
@@ -32,6 +32,9 @@ Questions? Email **[contact email]**.
 **Ads (collected by Google AdMob, not by me)**
 - AdMob collects your phone's advertising ID, IP address and device information to show ads and count them. When
   you finish a rewarded ad, Google tells the game's server so you get your reward.
+
+**If you email me**
+- Your email address and what you write, so I can answer you.
 
 The game does not use your location, contacts, camera, microphone, photos or files, and it has no analytics or
 tracking tools of its own.
@@ -62,6 +65,8 @@ recording of your run). Your email address and Google account ID are never shown
   The server may be in a different country from yours.
 - **Nobody else.** I don't sell your data. I would only hand it over if the law forces me to (for example a court
   order).
+- **If the game changes owner** (for example it is sold to a company), your data goes with the game, and the new
+  owner must keep the promises in this policy or tell you about any change first.
 
 ## Ads and your choices
 
@@ -76,6 +81,7 @@ recording of your run). Your email address and Google account ID are never shown
 - **Race times and ghosts:** until the season ends. After that only your all-time best times are kept.
 - **Sign-in records** (IP address and technical information): 90 days.
 - **Server logs:** about 2 weeks.
+- **Emails to me:** as long as needed to answer you, then up to 1 year in case the same problem comes back.
 - **Backups:** up to 30 days.
 
 ## Deleting your account
@@ -89,7 +95,8 @@ is kept (with no email, Google ID or name attached).
 ## Your rights
 
 You can ask for a copy of your data, ask me to correct it (you can change your name in the game yourself), or ask me
-to delete it. Email **[contact email]** and I'll answer within 30 days. If you live in the EU or the UK, you can
+to delete it. Email **[contact email]** and I'll answer within 30 days. To protect your account, I may ask you to
+write from the email address of the Google account you play with, or for your player ID, before I act on a request. If you live in the EU or the UK, you can
 also complain to your country's data protection authority.
 
 ## Children
