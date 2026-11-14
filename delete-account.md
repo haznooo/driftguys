@@ -19,7 +19,7 @@ Your account is deleted straight away.
 Email **[contact email]** **from the email address of the Google account you play with**, with the subject
 "Delete my account". Add your player ID if you know it (it's on your profile).
 
-I'll delete the account within 30 days and reply when it's done. The email must come from the account's own
+We'll delete the account within one month and reply when it's done. The email must come from the account's own
 address, so nobody else can delete your account.
 
 ## What is deleted

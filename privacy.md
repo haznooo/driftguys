@@ -7,7 +7,7 @@ permalink: /privacy/
 
 *Last updated: 14 November 2026* · See also the [terms of service](../terms/)
 
-Drift Guys is a racing game for Android made by one independent developer ("I", "me"). This page explains what
+Drift Guys is a racing game for Android. In this policy, "we" and "us" mean the developer of Drift Guys. This page explains what
 the game collects, why, who else gets it, how long it is kept, and how you can delete it.
 
 Questions? Email **[contact email]**.
@@ -29,12 +29,12 @@ Questions? Email **[contact email]**.
 - The IP address and basic technical information (such as the game version) your phone sends when you sign in.
 - Server logs: when the server was contacted and from which IP address.
 
-**Ads (collected by Google AdMob, not by me)**
+**Ads (collected by Google AdMob, not by us)**
 - AdMob collects your phone's advertising ID, IP address and device information to show ads and count them. When
   you finish a rewarded ad, Google tells the game's server so you get your reward.
 
-**If you email me**
-- Your email address and what you write, so I can answer you.
+**If you email us**
+- Your email address and what you write, so we can answer you.
 
 The game does not use your location, contacts, camera, microphone, photos or files, and it has no analytics or
 tracking tools of its own.
@@ -42,8 +42,8 @@ tracking tools of its own.
 ## Why
 
 - **To run the game:** sign-in, saving your progress, leaderboards, friends and challenges.
-- **To keep it fair:** race recordings are checked automatically for cheating, and I may look at suspicious races
-  myself. Cheating can lead to removed times or a banned account.
+- **To keep it fair:** race recordings are checked automatically for cheating, and we may look at suspicious races
+  ourselves. Cheating can lead to removed times or a banned account.
 - **To keep it safe:** limiting floods of requests and spotting stolen accounts.
 - **To pay for the game:** ads.
 
@@ -61,9 +61,9 @@ recording of your run). Your email address and Google account ID are never shown
 - **Google**, for sign-in (Google Sign-In) and ads (AdMob). See
   [Google's privacy policy](https://policies.google.com/privacy) and
   [how Google uses data from apps that use its services](https://policies.google.com/technologies/partner-sites).
-- **The hosting company** that rents me the server where the game's data is stored ([hosting company], [country]).
+- **The hosting company** that rents us the server where the game's data is stored ([hosting company], [country]).
   The server may be in a different country from yours.
-- **Nobody else.** I don't sell your data. I would only hand it over if the law forces me to (for example a court
+- **Nobody else.** We don't sell your data. We would only hand it over if the law forces us to (for example a court
   order).
 - **If the game changes owner** (for example it is sold to a company), your data goes with the game, and the new
   owner must keep the promises in this policy or tell you about any change first.
@@ -77,11 +77,11 @@ recording of your run). Your email address and Google account ID are never shown
 
 ## How long data is kept
 
-- **Account and game data:** as long as your account exists.
+- **Account and game data:** as long as your account exists. Accounts not used for 180 days or more may be deleted.
 - **Race times and ghosts:** until the season ends. After that only your all-time best times are kept.
 - **Sign-in records** (IP address and technical information): 90 days.
 - **Server logs:** about 2 weeks.
-- **Emails to me:** as long as needed to answer you, then up to 1 year in case the same problem comes back.
+- **Emails to us:** as long as needed to answer you, then up to 1 year in case the same problem comes back.
 - **Backups:** up to 30 days.
 
 ## Deleting your account
@@ -94,20 +94,21 @@ is kept (with no email, Google ID or name attached).
 
 ## Your rights
 
-You can ask for a copy of your data, ask me to correct it (you can change your name in the game yourself), or ask me
-to delete it. Email **[contact email]** and I'll answer within 30 days. To protect your account, I may ask you to
-write from the email address of the Google account you play with, or for your player ID, before I act on a request. If you live in the EU or the UK, you can
+You can ask for a copy of your data, ask us to correct it (you can change your name in the game yourself), or ask us
+to delete it. Email **[contact email]** and we'll answer within one month (up to three months for complicated
+requests, as the law allows). To protect your account, we may ask you to write from the email address of the Google
+account you play with, or for your player ID, before we act on a request. If you live in the EU or the UK, you can
 also complain to your country's data protection authority.
 
 ## Children
 
-Drift Guys is made for players aged 13 and over. I don't knowingly collect data from children under 13. If you
-believe a child under 13 has an account, email me and I'll delete it.
+Drift Guys is made for players aged 13 and over. We don't knowingly collect data from children under 13. If you
+believe a child under 13 has an account, email us and we'll delete it.
 
 ## Security
 
 The game talks to its server over an encrypted connection (HTTPS). The game never stores a password (you sign in
-with Google), and only I can access the server.
+with Google), and only the developer can access the server.
 
 ## Changes to this policy
 

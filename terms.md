@@ -7,7 +7,7 @@ permalink: /terms/
 
 *Last updated: 14 November 2026*
 
-These are the rules for playing Drift Guys, a game made by one independent developer ("I", "me"). By signing in and
+These are the rules for playing Drift Guys, a game by the developer of Drift Guys ("we", "us"). By signing in and
 playing, you agree to them and to the [privacy policy](../privacy/).
 
 **The short version:** play fair, be nice with your name, and know that coins, gems, cars and items are part of the
@@ -25,13 +25,13 @@ Nothing in these terms takes away rights that your country's consumer laws give 
 
 ## 2. Your right to play
 
-I give you a personal, non-commercial right to play Drift Guys. It can't be transferred to anyone else. The game,
-its cars, maps, art, music and code belong to me.
+We give you a personal, non-commercial right to play Drift Guys. It can't be transferred to anyone else. The game,
+its cars, maps, art, music and code belong to us.
 
 ## 3. Player names
 
-Your player name must not be insulting, hateful, sexual, or pretend to be someone else (including me or another
-player). I can change a name that breaks this rule, or take a name away.
+Your player name must not be insulting, hateful, sexual, or pretend to be someone else (including us or another
+player). We can change a name that breaks this rule, or take a name away.
 
 ## 4. Fair play
 
@@ -45,7 +45,7 @@ Drift Guys is about who drives best, so these are not allowed:
 - attacking, overloading or trying to break into the game's servers;
 - harassing other players.
 
-Races are checked automatically for cheating, and I may look at suspicious races myself. If you break these rules I
+Races are checked automatically for cheating, and we may look at suspicious races ourselves. If you break these rules we
 can, depending on how serious it is: remove your times, take back rewards, reset your rank, suspend your account, or
 ban it permanently. A banned player may not create a new account.
 
@@ -55,20 +55,20 @@ ban it permanently. A banned player may not create a new account.
   race against your ghost in time attack, Rank mode and challenges.
 - **Seasons reset:** at the end of each season, leaderboard times and ghosts are deleted. Only your all-time best
   times are kept.
-- Times that fail the cheat checks don't count. I can also remove times that came from a bug or a server problem.
+- Times that fail the cheat checks don't count. We can also remove times that came from a bug or a server problem.
 
 ## 6. Coins, gems, cars and items
 
 - Coins, gems, cars, upgrades, nitro looks and other items in the game are a **licence to use them in the game, not
   property**. You don't own them, and they have **no real-money value**.
 - They can't be sold, traded or transferred outside the game, or exchanged for real money.
-- I can change them to keep the game balanced or fun: for example car stats, prices, rewards or what items do.
-- **Mistakes:** if a bug or a server error gives you coins, gems or items you shouldn't have, I can take them back.
+- We can change them to keep the game balanced or fun: for example car stats, prices, rewards or what items do.
+- **Mistakes:** if a bug or a server error gives you coins, gems or items you shouldn't have, we can take them back.
 - When an account is deleted or banned, everything in it is lost, and there is no refund or payment for it.
 
 ## 7. Purchases
 
-- If the game sells anything for real money, payment goes through Google Play under Google Play's terms. I never see
+- If the game sells anything for real money, payment goes through Google Play under Google Play's terms. We never see
   your card details.
 - Items are delivered to your account straight away. By buying, you ask for this immediate delivery, which means that
   where the law allows it, you can't cancel the purchase afterwards.
@@ -79,31 +79,32 @@ ban it permanently. A banned player may not create a new account.
 - The game shows ads from Google AdMob. Some ads are optional: watch one to the end and you get a reward.
 - A reward is only given when Google confirms the ad was watched. Blocking ads or interrupting them can mean no
   reward.
-- I can change which rewards ads give, and how often ads appear.
+- We can change which rewards ads give, and how often ads appear.
 
 ## 9. Updates and changes
 
-- I update the game to add things, fix bugs and change the balance. Sometimes you must install the latest version to
+- We update the game to add things, fix bugs and change the balance. Sometimes you must install the latest version to
   keep playing.
-- I can change, pause or stop any part of the game, or the whole game, at any time. If the game shuts down, I'll try
+- We can change, pause or stop any part of the game, or the whole game, at any time. If the game shuts down, we'll try
   to announce it in advance, but nothing in it can be paid out.
 
 ## 10. Suspending and deleting accounts
 
-- I can suspend or delete an account that breaks these terms (see section 4).
+- We can suspend or delete an account that breaks these terms (see section 4).
+- Accounts not used for 180 days or more may be deleted.
 - You can delete your account at any time: in the game (Settings → Delete account) or as explained on the
   [account deletion page](../delete-account/).
 
 ## 11. No guarantees
 
-Drift Guys is provided "as is". I do my best, but I can't promise it will always be online, free of bugs, or that
+Drift Guys is provided "as is". We do our best, but we can't promise it will always be online, free of bugs, or that
 progress can never be lost (for example after a server failure).
 
-## 12. Limits on my responsibility
+## 12. Limits on our responsibility
 
-As far as the law allows, I am not responsible for indirect losses (for example lost time or lost progress). If I am
-ever found responsible for something, my responsibility is limited to the amount you paid in the game in the 6 months
-before. This does not limit responsibility that the law doesn't allow me to limit.
+As far as the law allows, we are not responsible for indirect losses (for example lost time or lost progress). If we are
+ever found responsible for something, our responsibility is limited to the amount you paid in the game in the 6 months
+before. This does not limit responsibility that the law doesn't allow us to limit.
 
 ## 13. Changes to these terms
 
