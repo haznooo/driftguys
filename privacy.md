@@ -79,6 +79,8 @@ recording of your run). Your email address and Google account ID are never shown
 
 - **Account and game data:** as long as your account exists. Accounts not used for 180 days or more may be deleted.
 - **Race times and ghosts:** until the season ends. After that only your all-time best times are kept.
+- **Races the cheat check marked as suspicious:** the recording is kept until we've reviewed it, even after the season
+  ends or the account is deleted. The note that a race was refused or suspicious is kept.
 - **Sign-in records** (IP address and technical information): 90 days.
 - **Server logs:** about 2 weeks.
 - **Emails to us:** as long as needed to answer you, then up to 1 year in case the same problem comes back.

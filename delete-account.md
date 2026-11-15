@@ -37,6 +37,9 @@ address, so nobody else can delete your account.
 - An empty record that an account once existed.
 - The history of coin and gem changes, ad rewards and purchases (if any), with **no email, Google ID or name**
   attached. It's kept for accounting and to stop fraud.
+- Records of races our cheat check refused or marked as suspicious (the race, the time and why), with **no email,
+  Google ID or name** attached. A suspicious race's recording is kept until we've reviewed it, then deleted. This keeps
+  the game fair.
 
 Backups that still contain your account are gone within 30 days.
 
