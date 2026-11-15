@@ -31,6 +31,7 @@ address, so nobody else can delete your account.
 - Your battle pass, achievements and mail
 - Your friends, friend requests and challenges
 - Your sign-in records (IP addresses and technical information)
+- Name reports you sent, and reports about your name
 
 ## What is kept
 

@@ -5,7 +5,7 @@ permalink: /privacy/
 
 # Drift Guys privacy policy
 
-*Last updated: 14 November 2026* · See also the [terms of service](../terms/)
+*Last updated: 15 November 2026* · See also the [terms of service](../terms/)
 
 Drift Guys is a racing game for Android. In this policy, "we" and "us" mean the developer of Drift Guys. This page explains what
 the game collects, why, who else gets it, how long it is kept, and how you can delete it.
@@ -24,6 +24,7 @@ Questions? Email **[contact email]**.
 - Your races: times, rank points and race recordings (how your car moved during a race). They are used for
   leaderboards, ghosts and cheat checks.
 - Friends, friend requests, challenges, mail, battle pass and achievement progress.
+- If you report another player's name: which name you reported and when.
 
 **To keep accounts and the server safe**
 - The IP address and basic technical information (such as the game version) your phone sends when you sign in.
@@ -81,6 +82,8 @@ recording of your run). Your email address and Google account ID are never shown
 - **Race times and ghosts:** until the season ends. After that only your all-time best times are kept.
 - **Races the cheat check marked as suspicious:** the recording is kept until we've reviewed it, even after the season
   ends or the account is deleted. The note that a race was refused or suspicious is kept.
+- **Name reports:** until we've looked at the name or the player changes it. If we decide a name is fine, the report
+  is kept while that player keeps the name.
 - **Sign-in records** (IP address and technical information): 90 days.
 - **Server logs:** about 2 weeks.
 - **Emails to us:** as long as needed to answer you, then up to 1 year in case the same problem comes back.
