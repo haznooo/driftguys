@@ -30,6 +30,15 @@ Questions? Email **[contact email]**.
 - The IP address and basic technical information (such as the game version) your phone sends when you sign in.
 - Server logs: when the server was contacted and from which IP address.
 
+**If something goes wrong in the game**
+- The game sends us an error report: the error message, where in the game's code it happened, the game version, your
+  phone's model and Android version, and which screen was open. It is linked to your account so we can match it to a
+  message from you.
+
+**Crash reports from Android (collected by Google, not by us)**
+- If you allow it in your phone's settings, Android sends Google crash reports about apps, which Google shows us
+  without your name.
+
 **Ads (collected by Google AdMob, not by us)**
 - AdMob collects your phone's advertising ID, IP address and device information to show ads and count them. When
   you finish a rewarded ad, Google tells the game's server so you get your reward.
@@ -46,6 +55,7 @@ tracking tools of its own.
 - **To keep it fair:** race recordings are checked automatically for cheating, and we may look at suspicious races
   ourselves. Cheating can lead to removed times or a banned account.
 - **To keep it safe:** limiting floods of requests and spotting stolen accounts.
+- **To fix bugs:** error reports show us what broke and on which phones.
 - **To pay for the game:** ads.
 
 If you live in the EU or the UK: your data is used because it is needed to give you the game you asked for
@@ -85,6 +95,7 @@ recording of your run). Your email address and Google account ID are never shown
 - **Name reports:** until we've looked at the name or the player changes it. If we decide a name is fine, the report
   is kept while that player keeps the name.
 - **Sign-in records** (IP address and technical information): 90 days.
+- **Error reports:** 90 days.
 - **Server logs:** about 2 weeks.
 - **Emails to us:** as long as needed to answer you, then up to 1 year in case the same problem comes back.
 - **Backups:** up to 30 days.
