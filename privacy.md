@@ -52,6 +52,7 @@ Questions? Email **[contact email]**.
 **Ads (collected by Google AdMob, not by us)**
 - AdMob collects your phone's advertising ID, IP address and device information to show ads and count them. When
   you finish a rewarded ad, Google tells the game's server so you get your reward.
+- We record when an ad was shown to your account, to space ads out and to see how players use them.
 
 **If you email us**
 - Your email address and what you write, so we can answer you.
@@ -110,6 +111,7 @@ messages and your police chase points. Your email address and Google account ID 
 - **Reported chat messages:** 90 days.
 - **Sign-in records** (IP address and technical information): 90 days.
 - **Error reports:** 90 days.
+- **Records of when an ad was shown to your account:** 90 days.
 - **Server logs:** about 2 weeks.
 - **Emails to us:** as long as needed to answer you, then up to 1 year in case the same problem comes back.
 - **Backups:** up to 30 days.

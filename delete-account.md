@@ -34,6 +34,7 @@ address, so nobody else can delete your account.
 - Name reports you sent, and reports about your name
 - Chat reports you sent, and reports about your chat messages
 - Error reports the game sent from your phone
+- Records of when an ad was shown to your account
 
 ## What is kept
 
