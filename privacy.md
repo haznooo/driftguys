@@ -5,7 +5,7 @@ permalink: /privacy/
 
 # Drift Guys privacy policy
 
-*Last updated: 15 November 2026* · See also the [terms of service](../terms/)
+*Last updated: 17 November 2026* · See also the [terms of service](../terms/)
 
 Drift Guys is a racing game for Android. In this policy, "we" and "us" mean the developer of Drift Guys. This page explains what
 the game collects, why, who else gets it, how long it is kept, and how you can delete it.
@@ -25,6 +25,16 @@ Questions? Email **[contact email]**.
   leaderboards, ghosts and cheat checks.
 - Friends, friend requests, challenges, mail, battle pass and achievement progress.
 - If you report another player's name: which name you reported and when.
+
+**In online rooms**
+- Where your car is and how it moves, sent live to the other players in the room so they can see you drive. It is not
+  saved.
+- Your chat messages. They are sent to the players in the room and **not saved**. While the room is open, the room
+  server keeps your last 5 messages in its memory, so other players can report them; they are gone when the room
+  closes.
+- If someone reports your chat (or you report someone's): the reported player's last 5 messages, who reported them
+  and when.
+- Police chase points are only kept while you're in the room. They are not saved.
 
 **To keep accounts and the server safe**
 - The IP address and basic technical information (such as the game version) your phone sends when you sign in.
@@ -54,7 +64,8 @@ tracking tools of its own.
 - **To run the game:** sign-in, saving your progress, leaderboards, friends and challenges.
 - **To keep it fair:** race recordings are checked automatically for cheating, and we may look at suspicious races
   ourselves. Cheating can lead to removed times or a banned account.
-- **To keep it safe:** limiting floods of requests and spotting stolen accounts.
+- **To keep it safe:** limiting floods of requests and spotting stolen accounts. In chat, a word filter hides blocked
+  words, and we read reported messages; offensive messages can lead to a ban.
 - **To fix bugs:** error reports show us what broke and on which phones.
 - **To pay for the game:** ads.
 
@@ -65,7 +76,8 @@ game's consent message (consent).
 ## What other players can see
 
 Your player name, player ID, profile picture, race times, rank, and your ghost (other players can race against a
-recording of your run). Your email address and Google account ID are never shown to anyone.
+recording of your run). In an online room, the players in it also see your car and how you drive (live), your chat
+messages and your police chase points. Your email address and Google account ID are never shown to anyone.
 
 ## Who else gets data
 
@@ -94,6 +106,8 @@ recording of your run). Your email address and Google account ID are never shown
   ends or the account is deleted. The note that a race was refused or suspicious is kept.
 - **Name reports:** until we've looked at the name or the player changes it. If we decide a name is fine, the report
   is kept while that player keeps the name.
+- **Chat messages:** not saved. Your last 5 stay in the room server's memory until the room closes.
+- **Reported chat messages:** 90 days.
 - **Sign-in records** (IP address and technical information): 90 days.
 - **Error reports:** 90 days.
 - **Server logs:** about 2 weeks.
@@ -118,7 +132,8 @@ also complain to your country's data protection authority.
 
 ## Children
 
-Drift Guys is made for players aged 13 and over. We don't knowingly collect data from children under 13. If you
+Drift Guys is made for players aged 13 and over (online rooms have chat with other players). We don't knowingly
+collect data from children under 13. If you
 believe a child under 13 has an account, email us and we'll delete it.
 
 ## Security

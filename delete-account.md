@@ -32,6 +32,7 @@ address, so nobody else can delete your account.
 - Your friends, friend requests and challenges
 - Your sign-in records (IP addresses and technical information)
 - Name reports you sent, and reports about your name
+- Chat reports you sent, and reports about your chat messages
 - Error reports the game sent from your phone
 
 ## What is kept

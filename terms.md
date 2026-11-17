@@ -5,7 +5,7 @@ permalink: /terms/
 
 # Drift Guys terms of service
 
-*Last updated: 14 November 2026*
+*Last updated: 17 November 2026*
 
 These are the rules for playing Drift Guys, a game by the developer of Drift Guys ("we", "us"). By signing in and
 playing, you agree to them and to the [privacy policy](../privacy/).
@@ -49,7 +49,16 @@ Races are checked automatically for cheating, and we may look at suspicious race
 can, depending on how serious it is: remove your times, take back rewards, reset your rank, suspend your account, or
 ban it permanently. A banned player may not create a new account.
 
-## 5. Races, leaderboards and ghosts
+## 5. Online rooms and chat
+
+- In an online room, the other players see your car, how you drive and what you write in the chat.
+- Chat must follow the same rules as names: nothing insulting, hateful, sexual, threatening, or spam, and no
+  personal information (yours or anyone else's: phone numbers, addresses, social accounts).
+- A word filter hides some words, but it can't catch everything. You can mute any player, and report their messages.
+- A room's admin can mute a player for everyone in the room or remove them from the room.
+- We read reported messages. Breaking these rules can get you muted or your account suspended or banned.
+
+## 6. Races, leaderboards and ghosts
 
 - Your times, rank and a recording of your best runs (your "ghost") are shown to other players. Other players can
   race against your ghost in time attack, Rank mode and challenges.
@@ -57,7 +66,7 @@ ban it permanently. A banned player may not create a new account.
   times are kept.
 - Times that fail the cheat checks don't count. We can also remove times that came from a bug or a server problem.
 
-## 6. Coins, gems, cars and items
+## 7. Coins, gems, cars and items
 
 - Coins, gems, cars, upgrades, nitro looks and other items in the game are a **licence to use them in the game, not
   property**. You don't own them, and they have **no real-money value**.
@@ -66,7 +75,7 @@ ban it permanently. A banned player may not create a new account.
 - **Mistakes:** if a bug or a server error gives you coins, gems or items you shouldn't have, we can take them back.
 - When an account is deleted or banned, everything in it is lost, and there is no refund or payment for it.
 
-## 7. Purchases
+## 8. Purchases
 
 - If the game sells anything for real money, payment goes through Google Play under Google Play's terms. We never see
   your card details.
@@ -74,44 +83,44 @@ ban it permanently. A banned player may not create a new account.
   where the law allows it, you can't cancel the purchase afterwards.
 - Purchases are final, except where Google Play's refund policy or your local law says otherwise.
 
-## 8. Ads
+## 9. Ads
 
 - The game shows ads from Google AdMob. Some ads are optional: watch one to the end and you get a reward.
 - A reward is only given when Google confirms the ad was watched. Blocking ads or interrupting them can mean no
   reward.
 - We can change which rewards ads give, and how often ads appear.
 
-## 9. Updates and changes
+## 10. Updates and changes
 
 - We update the game to add things, fix bugs and change the balance. Sometimes you must install the latest version to
   keep playing.
 - We can change, pause or stop any part of the game, or the whole game, at any time. If the game shuts down, we'll try
   to announce it in advance, but nothing in it can be paid out.
 
-## 10. Suspending and deleting accounts
+## 11. Suspending and deleting accounts
 
-- We can suspend or delete an account that breaks these terms (see section 4).
+- We can suspend or delete an account that breaks these terms (see sections 4 and 5).
 - Accounts not used for 180 days or more may be deleted.
 - You can delete your account at any time: in the game (Settings → Delete account) or as explained on the
   [account deletion page](../delete-account/).
 
-## 11. No guarantees
+## 12. No guarantees
 
 Drift Guys is provided "as is". We do our best, but we can't promise it will always be online, free of bugs, or that
 progress can never be lost (for example after a server failure).
 
-## 12. Limits on our responsibility
+## 13. Limits on our responsibility
 
 As far as the law allows, we are not responsible for indirect losses (for example lost time or lost progress). If we are
 ever found responsible for something, our responsibility is limited to the amount you paid in the game in the 6 months
 before. This does not limit responsibility that the law doesn't allow us to limit.
 
-## 13. Changes to these terms
+## 14. Changes to these terms
 
 If these terms change, the new version will be on this page with a new date. Big changes will also be announced in
 the game. If you keep playing after a change, you accept the new terms. If you don't agree, you can stop playing and
 delete your account.
 
-## 14. Contact
+## 15. Contact
 
 Questions, bug reports or problems: **[contact email]**
