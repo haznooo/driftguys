@@ -57,8 +57,8 @@ Questions? Email **[contact email]**.
 **If you email us**
 - Your email address and what you write, so we can answer you.
 
-The game does not use your location, contacts, camera, microphone, photos or files, and it has no analytics or
-tracking tools of its own.
+The game does not use your location, contacts, camera, microphone, photos or files. Apart from the record of when ads
+were shown (above), it has no analytics or tracking tools of its own.
 
 ## Why
 
