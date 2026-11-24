@@ -5,7 +5,7 @@ permalink: /privacy/
 
 # Drift Guys privacy policy
 
-*Last updated: 17 November 2026* · See also the [terms of service](../terms/)
+*Last updated: 24 November 2026* · See also the [terms of service](../terms/)
 
 Drift Guys is a racing game for Android. In this policy, "we" and "us" mean the developer of Drift Guys. This page explains what
 the game collects, why, who else gets it, how long it is kept, and how you can delete it.
@@ -78,7 +78,12 @@ game's consent message (consent).
 
 Your player name, player ID, profile picture, race times, rank, and your ghost (other players can race against a
 recording of your run). In an online room, the players in it also see your car and how you drive (live), your chat
-messages and your police chase points. Your email address and Google account ID are never shown to anyone.
+messages and your police chase points.
+
+Your friends can also see when you are in the online rooms on the same server (in the room list or in which room), and
+the day you last played (for example "played 3 days ago"; never the exact time).
+
+Your email address and Google account ID are never shown to anyone.
 
 ## Who else gets data
 
