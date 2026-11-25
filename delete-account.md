@@ -16,7 +16,7 @@ Your account is deleted straight away.
 
 ## Without the game
 
-Email **[contact email]** **from the email address of the Google account you play with**, with the subject
+Email **driftguys.support@gmail.com** **from the email address of the Google account you play with**, with the subject
 "Delete my account". Add your player ID if you know it (it's on your profile).
 
 We'll delete the account within one month and reply when it's done. The email must come from the account's own
@@ -53,4 +53,4 @@ Backups that still contain your account are gone within 30 days.
 - Uninstalling the game does **not** delete your account.
 - If you sign in again later with the same Google account, you start as a new player from zero.
 
-Questions: **[contact email]** · [Privacy policy](../privacy/) · [Terms of service](../terms/)
+Questions: **driftguys.support@gmail.com** · [Privacy policy](../privacy/) · [Terms of service](../terms/)

@@ -123,4 +123,4 @@ delete your account.
 
 ## 15. Contact
 
-Questions, bug reports or problems: **[contact email]**
+Questions, bug reports or problems: **driftguys.support@gmail.com**

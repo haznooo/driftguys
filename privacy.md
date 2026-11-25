@@ -10,7 +10,7 @@ permalink: /privacy/
 Drift Guys is a racing game for Android. In this policy, "we" and "us" mean the developer of Drift Guys. This page explains what
 the game collects, why, who else gets it, how long it is kept, and how you can delete it.
 
-Questions? Email **[contact email]**.
+Questions? Email **driftguys.support@gmail.com**.
 
 ## What the game collects
 
@@ -132,7 +132,7 @@ is kept (with no email, Google ID or name attached).
 ## Your rights
 
 You can ask for a copy of your data, ask us to correct it (you can change your name in the game yourself), or ask us
-to delete it. Email **[contact email]** and we'll answer within one month (up to three months for complicated
+to delete it. Email **driftguys.support@gmail.com** and we'll answer within one month (up to three months for complicated
 requests, as the law allows). To protect your account, we may ask you to write from the email address of the Google
 account you play with, or for your player ID, before we act on a request. If you live in the EU or the UK, you can
 also complain to your country's data protection authority.
@@ -155,4 +155,4 @@ the game.
 
 ## Contact
 
-**[contact email]**
+**driftguys.support@gmail.com**
